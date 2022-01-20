@@ -4,6 +4,7 @@ group rootProject.ext.GROUP
 buildscript {
   repositories {
     mavenCentral()
+    google()
   }
 }
 
